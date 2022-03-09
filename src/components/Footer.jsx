@@ -43,7 +43,7 @@ const Footer = () => (
       </div>
 
       <div className="footer-news">
-        <h4>Newsletter</h4>
+        <h4>Newsletter2</h4>
         <p>Stay update with our latest</p>
       </div>
 
